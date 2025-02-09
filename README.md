@@ -1,8 +1,9 @@
-# R-Info Multiplataforma
+# Tutorial de Instalacion de R-Info - Ingreso 2025
 
 ## Para Windows
 
-1- Descargar el archivo `r-Info2.9.4.jar` en esta pagina
+1- Descargar el archivo [r-Info2.9.4.jar](https://github.com/laFuenteUNLP/Rinfo-multiplataforma/blob/master/r-Info_2.9.jar)
+`Le haces click y en la siguiente pagina apretas ctrl+shift+s`
 
 2- Darle Doble Click
 
