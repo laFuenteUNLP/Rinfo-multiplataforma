@@ -1,7 +1,12 @@
 # R-Info Multiplataforma
 
 ## Para Windows
-> basta con instalar el archivo `Rinfo-2.7-windows.exe` haciendo doble click sobre el mismo
+> Descargar el archivo `r-Info2.9.4.jar` en esta pagina
+> Darle Doble Click
+---
+Fuente-Tip: Si el programa no abre. Revisa que tengas Java Instalado en un computadora, si no, lo descargas con este link:
+https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251639_7ed26d28139143f38c58992680c214a5
+
 
 ## Para Linux
 > Para ejecutarlo vamos a trabajar desde la consola para iniciarla podes hacerlo con `Ctrl+Alt+t`.
